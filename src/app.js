@@ -27,7 +27,7 @@ ipfs.once('ready', () => ipfs.id((err, info) => {
     },
     connector: {
       name: 'ipfs',
-      room: 'ipfs-yjs-demo',
+      room: 'acailly-ipfs-yjs-demo',
       ipfs: ipfs
     },
     share: {
